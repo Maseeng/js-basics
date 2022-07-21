@@ -10,7 +10,7 @@ console.log('Hello World');
 //Cannot contain a space or hyphen 
 //Are case-sensitive
 
-//et firstName = 'Maseeng';
+//let firstName = 'Maseeng';
 //let lastName = 'Masitha';
 //console.log(firstName, lastName)
 
